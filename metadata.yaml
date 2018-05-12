@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40760
     wikipedia: https://hu.wikipedia.org/wiki/Karinthy_Frigyes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40669#Esik-a-h-Novell-k
 gutenberg_issued: '2012-09-05'
 gutenberg_type: Text
 identifiers:
