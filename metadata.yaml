@@ -1,0 +1,32 @@
+_repo: Esik-a-h-Novell-k_40669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Karinthy, Frigyes
+    alias: Karinthy, Friedrich
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '40760'
+    url: http://www.gutenberg.org/2009/agents/40760
+    wikipedia: https://hu.wikipedia.org/wiki/Karinthy_Frigyes
+description: ''
+gutenberg_issued: '2012-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40669'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+tableOfContents: Cipőcsokor -- Esik a hó -- Két verssor között -- Melankólia -- Az
+  asszony -- Könnyek -- Verkliszó -- A körhinta -- Géniusz -- A dárda -- Az intő --
+  A pilóta -- Jó vicc -- Pierre -- Tapsoljanak a mamának.
+title: 'Esik a hó: Novellák'
+url: http://www.gutenberg.org/ebooks/40669
